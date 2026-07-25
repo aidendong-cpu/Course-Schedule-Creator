@@ -1,0 +1,6 @@
+{
+  "name": "Course Schedule Builder",
+  "description": "Smart class schedule generator that balances professor ratings, time slots, and user preference weights without time conflicts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
